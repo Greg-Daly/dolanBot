@@ -1,0 +1,26 @@
+{
+  "name": "twitter_bot",
+  "version": "1.0.0",
+  "description": "A new twitter bot",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Greg-Daly/twitterBot.git"
+  },
+  "keywords": [
+    "Twitter"
+  ],
+  "author": "Gregory Daly",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Greg-Daly/twitterBot/issues"
+  },
+  "homepage": "https://github.com/Greg-Daly/twitterBot#readme",
+  "dependencies": {
+    "twit": "^2.2.5"
+  }
+}
